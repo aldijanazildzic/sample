@@ -38,27 +38,6 @@ header {
 	float: left;
 }
 
-/*    	.sidebar-header-column {
-	display: inline-block;
-	width: 33%;
-	height: 40px;
-	float: left;
-	text-align: center;
-	line-height: 40px;
-}
-
-#sidebar_header {
-	display: inline-block;
-	width: 100%;
-	border-bottom: 1px solid red;
-}
-
-.sidebar-header-column > a {
-	height: 100%;
-	display: inline-block;
-	vertical-align: middle;
-}*/
-
 
 #sidebar_header {
 	width: 100%;
